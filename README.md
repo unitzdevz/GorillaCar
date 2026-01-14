@@ -7,7 +7,7 @@
 
 # Other information:
 There may be bugs entering the car, if you en-counter them, please tell me (unitz._. on discord.)
-
+No models are by me, they are from sketchfab.
 # Controls:
 ***A/B - EXIT
 JOYSTICK RIGHT FOR GOING LEFT RIGHT FORWARD & BACK***
